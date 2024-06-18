@@ -19,3 +19,9 @@ note (in sen.txt) you can add a filter for script for splitting urls which conat
 ```bash
    cd url-cleaner
    python3 main.py --file file_name.txt
+```
+join our telegram channel 
+
+[opsx Team on Telegram](https://t.me/opsxteam)
+   my mail    
+      awsox@proton.me
