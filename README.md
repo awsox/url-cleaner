@@ -15,6 +15,7 @@ This program helps you clean, structure, and categorize various URLs. It is high
    ```bash
    git clone https://github.com/yourusername/url-structurer-cleaner.git
 ## usage
+note (in sen.txt) you can add a filter for script for splitting urls which conatining that pharse
 ```bash
    cd url-structurer-cleaner
    python3 main.py --file file_name.txt
